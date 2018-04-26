@@ -1,0 +1,9 @@
+Spring Social VKontakte 1.0.0.BUILD-SNAPSHOT (June 7, 2011)
+=======================================================
+ - Implemented support for UsersOperations, WallOperations, FriendsOperations, SecureOperations, LocationOperations
+   AudioOperations, GroupsOperations, NewsFeedOperations, UtilsOperations.
+
+Spring Social VKontakte 2.0.0.BUILD-SNAPSHOT (January, 2016)
+=======================================================
+ - Removed previous API client implementation
+ - Migrated to VK Java SDK, https://vk.com/dev/Java_SDK
